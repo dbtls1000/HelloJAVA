@@ -12,11 +12,11 @@ public class HelloVar_05 {
 		birthYear = 1989;
 		
 		
-		int 국어_점수 = 90;
-		int 영어_점수 = 90;
-		int 수학_점수 = 90;
-		int 음악_점수 = 90;
-		int 미술_점수 = 90;
+		int a = 90;
+		int b = 90;
+		int c = 90;
+		int d = 90;
+		int e = 90;
 		
 		int korScore = 90;
 		int engScore = 90;
